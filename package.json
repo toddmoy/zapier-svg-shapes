@@ -1,0 +1,14 @@
+{
+  "name": "zapier-svg-shapes",
+  "version": "1.0.0",
+  "description": "Brand standard shapes",
+  "main": "index.js",
+  "author": "Todd Moy",
+  "license": "Unlicensed",
+  "dependencies": {
+    "svgo": "^2.2.2"
+  },
+  "scripts": {
+    "optimize": "svgo -f ./originals -o ./optimized"
+  }
+}
