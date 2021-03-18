@@ -1,1 +1,1 @@
-<svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200"><path d="M195 5 5 195M5 5l190 190" stroke="#333" stroke-width="10"/></svg>
+<svg fill="none" viewBox="0 0 200 200"><path d="M195 5 5 195" stroke="#333" stroke-width="10"/><path d="m5 5 190 190" stroke="#333" stroke-width="10"/></svg>
